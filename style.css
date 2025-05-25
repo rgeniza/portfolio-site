@@ -1,0 +1,19 @@
+body{
+    background-color: lightslategray;
+}
+h1{text-align: center;
+
+}
+
+p{
+    text-align: justify;
+    width: 50%;
+    
+}
+p2{
+    float: right;
+}
+p3{
+font-weight: bold;
+
+}
