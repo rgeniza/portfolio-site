@@ -5,7 +5,7 @@ let monthlyExp = 200000;
 let netCashFlow = monthlyRev-monthlyExp;
 let currentBalance = initialCap + netCashFlow;
 let isProfitable = netCashFlow > 0;
-console.log(startupName)
-console.log(netCashFlow)
-console.log(currentBalance)
-console.log(isProfitable)
+console.log(startupName);
+console.log(netCashFlow);
+console.log(currentBalance);
+console.log(isProfitable);
